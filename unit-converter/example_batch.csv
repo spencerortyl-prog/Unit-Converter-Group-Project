@@ -1,0 +1,6 @@
+category,value,source,target
+length,1,mi,km
+temperature,32,F,C
+data,1,KiB,B
+temperature,-1,K,C
+length,abc,m,ft

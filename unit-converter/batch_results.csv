@@ -1,6 +1,0 @@
-category,value,source,target,result,error
-length,1,mi,km,1.609344,
-temperature,32,F,C,0.0,
-data,1,KiB,B,1024.0,
-temperature,-1,K,C,,Temperature cannot be below absolute zero.
-length,abc,m,ft,,"Enter a number, such as 12.5 or 1e3."
